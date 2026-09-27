@@ -10,16 +10,6 @@
 
 ---
 
-## Preview
-
-> Una calcolatrice dal design pulito e moderno, pensata per essere semplice da usare e piacevole da vedere.
-
-<p align="center">
-  <img src="screenshot.png" alt="Il Papero Calculator" width="350">
-</p>
-
----
-
 ## 🦆 Il Papero
 
 **Il Papero** sono io, quindi ho fatto una calcolatrice web minimalista con un'interfaccia intuitiva.
