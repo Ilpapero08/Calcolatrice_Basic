@@ -1,7 +1,7 @@
-<h1 align="center">🦆 Il Papero 🦆— Calcolatrice Basic</h1>
+<h1 align="center">🦆 Il Papero 🦆— Calcolatrice Basic🦆</h1>
 
 <p align="center">
-  <strong>Una calcolatrice semplice, precisa e sempre pronta.</strong>
+  <strong>🦆Una calcolatrice semplice, precisa e sempre pronta🦆.</strong>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## 🦆 Il Papero
+## 🦆 Il Papero 🦆
 
 **Il Papero** sono io, quindi ho fatto una calcolatrice web minimalista con un'interfaccia intuitiva.
 
@@ -20,9 +20,9 @@ L'obiettivo è semplice:
 
 Niente menu complicati, niente funzioni inutili: solo una calcolatrice pronta a fare il suo lavoro.
 
----
+---🦆
 
-## 🚀 Funzionalità
+## 🦆 Funzionalità 🦆
 
 - ➕ Addizione
 - ➖ Sottrazione
@@ -37,9 +37,9 @@ Niente menu complicati, niente funzioni inutili: solo una calcolatrice pronta a 
 - 📱 Interfaccia responsive
 - 🎨 Design moderno e minimale
 
----
+---🦆
 
-## 🎨 Design
+## 🦆 Design 🦆
 
 L'interfaccia utilizza una palette chiara con:
 
@@ -51,7 +51,7 @@ L'interfaccia utilizza una palette chiara con:
 
 Il risultato è una UI semplice ma riconoscibile.
 
----
+---🦆
 
 ## ⌨️ Comandi da tastiera
 
@@ -69,9 +69,9 @@ Puoi utilizzare direttamente la tastiera per eseguire le operazioni.
 | `Escape` | Azzera |
 | `,` / `.` | Decimale |
 
----
+---🦆
 
-## 📂 Struttura del progetto
+## 🦆 Struttura del progetto 🦆
 
 ```text
 Calcolatrice_Basic/
