@@ -1,11 +1,68 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="theme-color" content="#eff7fb">
+    <meta name="description" content="Una calcolatrice semplice, bella e pronta all'uso.">
+    <title>Il Papero - Calcolatrice</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <main class="page-shell">
+        <header class="page-heading">
+            <div class="heading-mark" aria-hidden="true">🦆</div>
+            <p class="eyebrow">IL TUO SPAZIO PER I NUMERI</p>
+            <h1>Il Papero fa i conti<span>.</span></h1>
+            <p class="heading-note">Semplice, precisa, sempre pronta.</p>
+        </header>
+
+        <section class="calculator" aria-label="Calcolatrice">
+            <div class="calculator-topbar">
+                <div class="brand-lockup">
+                    <span class="brand-icon" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
+                    <span>Il Papero<span class="brand-dot">.</span></span>
+                </div>
+                <span class="live-status"><span class="status-dot"></span> PRONTA</span>
+            </div>
+
+            <div class="display" aria-live="polite" aria-atomic="true">
+                <div class="display-expression" id="expression">&nbsp;</div>
+                <output class="display-value" id="display" aria-label="Risultato">0</output>
+            </div>
+
+            <div class="keypad" aria-label="Tastierino">
+                <button class="key key-function" type="button" data-action="clear" aria-label="Cancella tutto">AC</button>
+                <button class="key key-function" type="button" data-action="sign" aria-label="Cambia segno">±</button>
+                <button class="key key-function" type="button" data-action="percent" aria-label="Percentuale">%</button>
+                <button class="key key-operator" type="button" data-operator="/" aria-label="Diviso">÷</button>
+
+                <button class="key" type="button" data-digit="7">7</button>
+                <button class="key" type="button" data-digit="8">8</button>
+                <button class="key" type="button" data-digit="9">9</button>
+                <button class="key key-operator" type="button" data-operator="*" aria-label="Per">×</button>
+
+                <button class="key" type="button" data-digit="4">4</button>
+                <button class="key" type="button" data-digit="5">5</button>
+                <button class="key" type="button" data-digit="6">6</button>
+                <button class="key key-operator" type="button" data-operator="-" aria-label="Meno">−</button>
+
+                <button class="key" type="button" data-digit="1">1</button>
+                <button class="key" type="button" data-digit="2">2</button>
+                <button class="key" type="button" data-digit="3">3</button>
+                <button class="key key-operator" type="button" data-operator="+" aria-label="Più">+</button>
+
+                <button class="key key-function key-backspace" type="button" data-action="backspace" aria-label="Cancella l'ultima cifra">⌫</button>
+                <button class="key" type="button" data-digit="0">0</button>
+                <button class="key" type="button" data-action="decimal" aria-label="Virgola">,</button>
+                <button class="key key-equals" type="button" data-action="equals" aria-label="Uguale">=</button>
+            </div>
+
+            <p class="keyboard-hint"><kbd>Invio</kbd> calcola <span></span> <kbd>Esc</kbd> azzera</p>
+        </section>
+
+        <footer class="page-footer"><span>NUMERI IN ORDINE, SENZA PENSIERI</span><span aria-hidden="true">✳</span></footer>
+    </main>
+    <script src="code.js"></script>
 </body>
 </html>
