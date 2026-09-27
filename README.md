@@ -8,7 +8,7 @@
   Web App · UI moderna · Leggera · Responsive
 </p>
 
----
+🦆---🦆
 
 ## 🦆 Il Papero 🦆
 
@@ -20,7 +20,7 @@ L'obiettivo è semplice:
 
 Niente menu complicati, niente funzioni inutili: solo una calcolatrice pronta a fare il suo lavoro.
 
----🦆
+🦆---🦆
 
 ## 🦆 Funzionalità 🦆
 
@@ -33,25 +33,25 @@ Niente menu complicati, niente funzioni inutili: solo una calcolatrice pronta a 
 - `AC` Reset completo
 - `⌫` Cancella l'ultima cifra
 - `,` Numeri decimali
-- ⌨️ Supporto alla tastiera
-- 📱 Interfaccia responsive
-- 🎨 Design moderno e minimale
+- 🦆 Supporto alla tastiera
+- 🦆 Interfaccia responsive
+- 🦆 Design moderno e minimale
 
----🦆
+🦆---🦆
 
 ## 🦆 Design 🦆
 
 L'interfaccia utilizza una palette chiara con:
 
-- 🩵 tonalità azzurro chiaro
-- 🟨 pulsanti dorati per le operazioni
-- ⬜ sfondo pulito
-- 🔵 tipografia scura e leggibile
-- ✨ angoli arrotondati e ombre leggere
+- 🦆 tonalità azzurro chiaro
+- 🦆 pulsanti dorati per le operazioni
+- 🦆 sfondo pulito
+- 🦆 tipografia scura e leggibile
+- 🦆 angoli arrotondati e ombre leggere
 
 Il risultato è una UI semplice ma riconoscibile.
 
----🦆
+🦆---🦆
 
 ## 🦆 Comandi da tastiera 🦆
 
@@ -69,7 +69,7 @@ Puoi utilizzare direttamente la tastiera per eseguire le operazioni.
 | `Escape` | Azzera |
 | `,` / `.` | Decimale |
 
----🦆
+🦆---🦆
 
 ## 🦆 Struttura del progetto 🦆
 
