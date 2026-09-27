@@ -53,7 +53,7 @@ Il risultato è una UI semplice ma riconoscibile.
 
 ---🦆
 
-## ⌨️ Comandi da tastiera
+## 🦆 Comandi da tastiera 🦆
 
 Puoi utilizzare direttamente la tastiera per eseguire le operazioni.
 
