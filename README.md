@@ -1,11 +1,11 @@
-# Il Papero — Calcolatrice Basic
+<h1 align="center">🦆 Il Papero 🦆— Calcolatrice Basic</h1>
 
 <p align="center">
   <strong>Una calcolatrice semplice, precisa e sempre pronta.</strong>
 </p>
 
 <p align="center">
-  Web App · UI moderna ·  Leggera ·  Responsive
+  Web App · UI moderna · Leggera · Responsive
 </p>
 
 ---
