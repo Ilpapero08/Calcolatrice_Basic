@@ -90,7 +90,4 @@ Calcolatrice_Basic/
 ├── style.css
 ├── script.js
 │
-├── assets/
-│   └── ...
-│
 └── README.md
