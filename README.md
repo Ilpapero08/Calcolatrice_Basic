@@ -1,16 +1,16 @@
-# 🧮 Il Papero — Calcolatrice Basic
+# Il Papero — Calcolatrice Basic
 
 <p align="center">
   <strong>Una calcolatrice semplice, precisa e sempre pronta.</strong>
 </p>
 
 <p align="center">
-  💻 Web App · 🎨 UI moderna · ⚡ Leggera · 📱 Responsive
+  Web App · UI moderna ·  Leggera ·  Responsive
 </p>
 
 ---
 
-## ✨ Preview
+## Preview
 
 > Una calcolatrice dal design pulito e moderno, pensata per essere semplice da usare e piacevole da vedere.
 
