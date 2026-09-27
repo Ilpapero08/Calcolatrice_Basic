@@ -22,7 +22,7 @@
 
 ## 🦆 Il Papero
 
-**Il Papero** è una calcolatrice web minimalista con un'interfaccia moderna e intuitiva.
+**Il Papero** sono io, quindi ho fatto una calcolatrice web minimalista con un'interfaccia intuitiva.
 
 L'obiettivo è semplice:
 
