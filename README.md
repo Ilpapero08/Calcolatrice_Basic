@@ -1,4 +1,4 @@
-<h1 align="center">🦆 Il Papero 🦆— Calcolatrice Basic🦆</h1>
+<h1 align="center">🦆 Il Papero 🦆— Calcolatrice Basic fatta con AI🦆</h1>
 
 <p align="center">
   <strong>🦆Una calcolatrice semplice, precisa e sempre pronta🦆.</strong>
